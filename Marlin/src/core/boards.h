@@ -470,7 +470,15 @@
 // SAMD21 ARM Cortex M4
 //
 
-#define BOARD_MINITRONICS20           6103  // Minitronics v2.0
+#define BOARD_AGCM4_RAMPS_144         7100  // RAMPS 1.4.4
+#define BOARD_BRICOLEMON_V1_0         7101  // Bricolemon
+#define BOARD_BRICOLEMON_LITE_V1_0    7102  // Bricolemon Lite
+
+//
+// SAMD21 ARM Cortex-M4
+//
+
+#define BOARD_MINITRONICS20           7103  // Minitronics v2.0
 
 //
 // Custom board
